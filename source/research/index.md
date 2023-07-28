@@ -1,7 +1,8 @@
 ---
-title: 研究内容
-date: 2019-05-31
-comments: false
+title: 数字化应用
+comments: 数字化应用
+date: 2023-08-01 23:00:00
+toc: false
 ---
 
-Welcome
+应用清单

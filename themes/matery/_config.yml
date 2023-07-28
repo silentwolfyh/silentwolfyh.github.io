@@ -4,19 +4,19 @@ menu:
   主页:
     url: /
     icon: fa-home
-  研究内容:
+  数字化应用:
     url: /research
     icon: fa-tasks
-  研究队伍:
+  数据治理:
     url: /members
     icon: fa-address-card
-  论文发表:
+  解决方案:
     url: /publications
     icon: fa-university
-  研究项目:
+  成功案例:
     url: /projects
     icon: fa-cubes
-  科技奖励:
+  新闻动态:
     url: /resources
     icon: fa-download
   联系方式:

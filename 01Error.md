@@ -1,4 +1,28 @@
-解决方案：参考Study.md
+解决方案：
+- [下面错误解决方案](02Study.md)
+
+## npm和node 
+### npm安装指定版本
+```
+sudo npm install -g braces@3.0.2
+sudo npm install -g glob-parent@6.0.2
+sudo npm install -g prismjs@1.29.0
+sudo npm install -g @react-navigation/native@6.1.7
+sudo npm install -g hexo@6.3.0
+sudo npm install -g hexo-deployer-git@4.0.0
+sudo npm install -g hexo-generator-archive@0.1.5
+sudo npm install -g hexo-generator-category@0.1.3
+sudo npm install -g hexo-generator-feed@1.2.2
+sudo npm install -g hexo-generator-index@0.2.1
+sudo npm install -g hexo-generator-search@2.4.0
+sudo npm install -g hexo-generator-tag@0.2.0
+sudo npm install -g hexo-prism-plugin@2.3.0
+sudo npm install -g hexo-renderer-ejs@2.0.0
+sudo npm install -g hexo-renderer-marked@6.1.1
+sudo npm install -g hexo-renderer-stylus@0.3.3
+sudo npm install -g hexo-server@0.3.3
+```
+
 
 ```
 (xiaohui)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master  sudo npm install hexo --save

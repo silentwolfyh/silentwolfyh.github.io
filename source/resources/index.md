@@ -1,7 +1,8 @@
 ---
-title: 科技奖励
-date: 2022-10-27
-comments: false
+title: 新闻动态
+comments: 新闻动态
+date: 2023-08-01 23:00:00
+toc: false
 ---
 
 (1) 黄永峰，全国网络安全优秀教师奖，2016年

@@ -1,7 +1,8 @@
 ---
-title: 研究项目
-date: 2019-06-06 12:11:10
-comments: false
+title: 成功案例
+comments: 成功案例
+date: 2023-08-01 23:00:00
+toc: false
 ---
 
 ### 16年后的项目

@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: NGNLab
-subtitle: NGNLab
-description: Lab of New Generation Network Technology & Applications, Tsinghua University
+title: 赛博恩福
+subtitle: 北京赛博恩福科技有限公司
+description: 北京赛博恩福科技有限公司成立于2013年02月21日，法定代表人为汪杏。经营范围包括技术开发、技术转让、技术咨询；计算机系统服务；软件开发；销售电子产品、计算机 软件及辅助设备。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)
 keywords:
-author: NGNLab
+author: wangxing
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://thungnlab.cn
+url: http://thungnlab00001.cn
 root: /
 permalink: :year/:title/
 permalink_defaults:

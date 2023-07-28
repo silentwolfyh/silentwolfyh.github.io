@@ -1,15 +1,14 @@
 ---
 title: 联系方式
-date: 2019-05-31 23:00:00
+comments: 联系方式
+date: 2023-08-01 23:00:00
 toc: false
 ---
 
-新一代互联网技术与应用实验室（NGNLab）长期招收优秀的学者加入我们。如果您对我们的研究感兴趣，欢迎联系我们！
-The NGNLab is always looking for outstanding students and visitors to join us. If you are interested in our research, please feel free to contact us.
+北京赛博恩福科技有限公司成立于2013年02月21日，注册地位于北京市昌平区回龙观西大街9号院13号楼6层2单元705，法定代表人为汪杏。经营范围包括技术开发、技术转让、技术咨询；计算机系统服务；软件开发；销售电子产品、计算机 软件及辅助设备。(企业依法自主选择经营项目，开展经营活动；依法须经批准的项目，经相关部门批准后依批准的内容开展经营活动；不得从事本市产业政策禁止和限制类项目的经营活动。)
 
 联系方式：
-> - 地址： 清华大学电子工程系罗姆楼 5-104 & 110
-> Office 5-104 & 110, Rohm Building Department of Electronic Engineering, Tsinghua University
-> - 电话： (010) 6279 2516
-> - 邮箱： yfhuang(at)tsinghua.edu.cn
-> - 公共邮箱：ngnlab.thu(at)outlook.com
+> - 联系人：汪杏
+> - 地址： 北京市昌平区回龙观西大街9号院13号楼6层2单元705
+> - 电话： 13621093852
+> - 邮箱： yuhuiqh2009@163.com
