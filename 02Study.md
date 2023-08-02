@@ -6,6 +6,7 @@
 - [图片](themes/matery/source/medias)
 
 ## 目录说明
+- node_modules 可以删除，系统会自动重建
 - scaffolds
 - source 文字内容【核心】
   - source/_posts 主页下面的几个文章
@@ -16,7 +17,6 @@
   - source/publications 数字化应用
   - source/resources 新闻动态
   - CNAME 域名
-  
 - themes 样式和图片
 - themes/matery/source/medias 网站中的图片
 
@@ -53,10 +53,12 @@ sudo npm install -g hexo-server@0.3.3
 
 ```
 npm 和 node 版本
-(base)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master  npm  -v
+(base)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/saibo  npm  -v
 9.6.7
-(base)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master  node -v
+(base)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/saibo  node -v
 v18.17.0
+
+sudo npm install -g node@18.17.0
 ```
 
 ## NPM查看版本

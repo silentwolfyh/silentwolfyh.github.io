@@ -25,7 +25,7 @@ sudo npm install -g hexo-server@0.3.3
 
 
 ```
-(xiaohui)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master  sudo npm install hexo --save
+(xiaohui)  yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/saibo  sudo npm install hexo --save
 
 up to date, audited 941 packages in 3s
 
@@ -45,7 +45,7 @@ Run `npm audit` for details.
 
 #######################################################  分界线  #################################################################
 
-(xiaohui)  ✘ yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master  sudo npm audit fix
+(xiaohui)  ✘ yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/saibo  sudo npm audit fix
 
 up to date, audited 941 packages in 2s
 
@@ -108,5 +108,5 @@ To address issues that do not require attention, run:
 
 Some issues need review, and may require choosing
 a different dependency.
-(xiaohui)  ✘ yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/ngnlab-website-admin-master 
+(xiaohui)  ✘ yuhui@yuhuideMacBook-Pro  ~/PycharmProjects/ngn_code/saibo 
 ```
