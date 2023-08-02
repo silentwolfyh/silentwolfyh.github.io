@@ -7,8 +7,9 @@
 
 ## 目录说明
 - node_modules 可以删除，系统会自动重建
-- scaffolds
-- source 文字内容【核心】
+- pulic        可以删除，系统会自动重建 （hexo generate 生成的）
+- scaffolds 【重要】系统自带目录
+- source    【重要】文字内容【核心】
   - source/_posts 主页下面的几个文章
   - source/contact 联系方式
   - source/members  数据治理
@@ -17,8 +18,8 @@
   - source/publications 数字化应用
   - source/resources 新闻动态
   - CNAME 域名
-- themes 样式和图片
-- themes/matery/source/medias 网站中的图片
+- themes    【重要】样式和图片
+  - themes/matery/source/medias 网站中的图片
 
 ## 参考文献
 - [pip和npm使用总结](https://blog.csdn.net/yexudengzhidao/article/details/83588371)
@@ -28,6 +29,7 @@
 - [数据公司](https://www.datacvg.com/Product/Detail/295153457694863?bd_vid=10293663544104905827)
 - [GitHub+Hexo 搭建个人网站详细教程](https://zhuanlan.zhihu.com/p/26625249)
 - [hexo.io](https://hexo.io/docs/configuration)
+- [github.io创建个人网站](https://blog.csdn.net/weixin_46530492/article/details/130797998?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-130797998-blog-127269682.235%5Ev38%5Epc_relevant_anti_vip&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1-130797998-blog-127269682.235%5Ev38%5Epc_relevant_anti_vip&utm_relevant_index=1)
 
 ## npm和node 
 ### npm安装指定版本
