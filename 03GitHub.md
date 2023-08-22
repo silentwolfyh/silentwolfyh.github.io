@@ -1,6 +1,0 @@
-taken
-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
-
-域名地址
-在github仓库里的_config.yml里面，thungnlab.cn域名是第16行的url控制，github.io仓库是第105行repo控制
-https://github.com/nnnoidea/ngnlab-website-admin/blob/master/_config.yml

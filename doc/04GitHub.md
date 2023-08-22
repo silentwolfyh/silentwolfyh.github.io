@@ -1,0 +1,6 @@
+taken
+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
+
+域名地址
+在github仓库里的_config.yml里面，yuchengzhe.com域名是第16行的url控制，github.io仓库是第105行repo控制
+https://github.com/silentwolfyh/silentwolfyh.github.io/blob/main/_config.yml

@@ -1,8 +1,9 @@
 ---
-title: 2022.6.02-Nature子刊
+title: 数据标注--3D图像标注案例
 date: 2022-10-25 10:00
-author: NGNLab
+author: 赛博恩福
 toc: false
 ---
 
-# Page01
+# 3D标注案例
+[3D标注案例](https://zhuanlan.zhihu.com/p/414638926)

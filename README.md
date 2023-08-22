@@ -1,4 +1,4 @@
-# NGN 实验室网站管理
+# 北京赛博恩福科技有限公司
 
 ## 依赖
 
@@ -28,8 +28,8 @@ sudo n stable
 3. clone 仓库到本地
 
 ```
-git clone git@github.com:ybch14/ngnlab-website-admin.git
-cd ngnlab-website-admin
+git clone git@github.com:silentwolfyh/silentwolfyh.github.io.git
+cd saibo
 ```
 
 4. 安装 `hexo` 和 `hexo-deployer-git`

@@ -1,7 +1,7 @@
 ---
-title: 最新动态-微软亚太学者提名奖
+title: 数据标注--视频标注案例
 date: 2022-10-25 10:00
-author: NGNLab
+author: 赛博恩福
 toc: false
 ---
 

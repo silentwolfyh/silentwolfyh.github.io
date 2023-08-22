@@ -4,13 +4,13 @@ menu:
   主页:
     url: /
     icon: fa-home
-  数字化应用:
+  数据标注:
     url: /research
     icon: fa-tasks
-  数据治理:
+  数据服务:
     url: /members
     icon: fa-address-card
-  解决方案:
+  开源情报:
     url: /publications
     icon: fa-university
   成功案例:
@@ -70,7 +70,7 @@ recommend:
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
 favicon: /favicon.png
-logo: /medias/ngnlab.png
+logo: /medias/china.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -86,8 +86,8 @@ indexbtn:
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   # qq: 123123123
-  github: https://github.com/thu-ngnlab
-  email: ngnlab.thu@outlook.com
+  github: https://github.com/silentwolfyh
+  email: yuhuiqh2009@163.com
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
